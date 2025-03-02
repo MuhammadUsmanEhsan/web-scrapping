@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import pandas as pd
 import os
 
-app = Flask(__name__)
+app = Flask(_ _name_ _)
 
 # Load the CSV file
 csv_file = "medium_scraped_data.csv"
